@@ -1,0 +1,24 @@
+{
+  "name": "lcd-digits-node",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "lcdPrint.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WY08271/lcd-digits-node-WY08271.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WY08271/lcd-digits-node-WY08271/issues"
+  },
+  "homepage": "https://github.com/WY08271/lcd-digits-node-WY08271#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "lodash": "^4.6.1"
+  }
+}
